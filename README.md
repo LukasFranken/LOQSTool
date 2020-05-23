@@ -9,5 +9,6 @@ Content:
 
 # Installation
 
-If you have Java installed: Download loqstool.jar and doubleclick it to open.
-If you don't have a Java installed: Download the most recent Java version from here: https://www.java.com/en/download/. Then download loqstool.jar and doubleclick it to open.
+  If you have Java installed: Download loqstool.jar and doubleclick it to open.
+  
+  If you don't have a Java installed: Download the most recent Java version from here: https://www.java.com/en/download/. Then download     loqstool.jar and doubleclick it to open.
