@@ -39,7 +39,7 @@ A: Primarily and at the moment yes, but not all future features will be. Since m
 #
 Q: I really don't want to pay for this, do I have to eventually, in oder to use the software to its fullest extend?
 
-A: This software lives off of YOUR contribution. My goal is to implement a way to reward data contributions with free access to all of the softwares features. In other words: You keep submitting your found quality nodes and contributing to the ecosystem of the tool and I will try to keep it as free as possible for you. More info on that in the future.
+A: This software lives off of YOUR contribution. My goal is to implement a way to reward data contributions to the global network with free access to all of the softwares features. In other words: You keep submitting your found quality nodes and contributing to the ecosystem of the tool and I will try to keep it as free as possible for you. More info on that in the future.
 #
 Q: Why doesn't the tool read out the resource data from the game automatically?
 
