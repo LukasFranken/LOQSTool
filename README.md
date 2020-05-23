@@ -18,3 +18,13 @@ If you don't have a Java installed: Download the most recent Java version from h
 #
 ![loqstool.jar location](https://i.imgur.com/Cpn66Zi.png)
 #
+
+# How to use the tool
+
+# Quality in Last Oasis
+
+I couldn't have made it better myself, so I prefer to redirect you to this online document: https://docs.google.com/document/d/1rM6Gt2k3zWGwzAbSeO1cdze2qWqe12p3dUpUdDz97z4/edit#
+
+Props to OwO for creating this useful guide!
+
+# Questions and Answers
