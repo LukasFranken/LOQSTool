@@ -45,3 +45,7 @@ Q: Why doesn't the tool read out the resource data from the game automatically?
 
 A: To ensure your safety, I do not implement any functionality, that interacts with the gameprocess itself, since that may lead to account suspension. As of so far, the game devs seem extremely strict when it comes to the use of external software. I am already prepared for that day, however, on which the devs might allow my software to read out gamedata automatically, either through an API or image-recognition. Once I see a green light from the devs, I will be implementing a feature to automatically add data immediately. Until then, my goal is to make the data input as smooth and comfortable as possible, while keeping my software risk-free.
 #
+Q: We are a clan, how exactly can we profit from contacting you directly?
+
+A: The most requested solution would be a private realm. With this feature, all your clanmember's data submissions will only be visible to other clanmembers, while all of you have access to read out the data from the global network. This allows for more "insider information" when it comes to your specific clan map. Random players may still submit resource nodes from "your map" to the global network. If you have a request on your own, may it be a clan-wide checklist or whatever, then please feel free to contact me, so we can make an arrangement.
+#
