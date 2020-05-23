@@ -6,6 +6,7 @@ Content:
 1. Installation
 2. How to use the tool
 3. Quality in Last Oasis
+4. Changelog
 
 # Installation
 
