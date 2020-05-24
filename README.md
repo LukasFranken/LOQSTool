@@ -16,6 +16,8 @@ If you have Java installed: Download loqstool.jar and doubleclick it to open.
   
 If you don't have a Java installed: Download the most recent Java version from here: https://www.java.com/en/download/. Then download     loqstool.jar and doubleclick it to open.
 
+If you encounter any issues during the process, feel free to contact me with an explanation of your issue. While the tool is only tested on Windows, it should theoretically work with most devices that have java on it.
+
 #
 ![loqstool.jar location](https://i.imgur.com/Cpn66Zi.png)
 #
