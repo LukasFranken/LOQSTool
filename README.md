@@ -8,6 +8,7 @@ Content:
 3. Quality in Last Oasis
 4. Q&A
 5. Changelog
+6. Contact
 
 # Installation
 
@@ -49,3 +50,7 @@ Q: We are a clan, how exactly can we profit from contacting you directly?
 
 A: The most requested solution would be a private realm. With this feature, all your clanmember's data submissions will only be visible to other clanmembers, while all of you have access to read out the data from the global network. This allows for more "insider information" when it comes to your specific clan map. Random players may still submit resource nodes from "your map" to the global network. If you have a request on your own, may it be a clan-wide checklist or whatever, then please feel free to contact me, so we can make an arrangement.
 #
+
+# Contact
+
+Email: m16a1@live.de
