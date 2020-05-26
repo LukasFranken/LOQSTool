@@ -31,7 +31,7 @@ Note: The UI is extremely primitive as of right now, but will be redesigned in n
 Once the text on the top right says "Connected!", you are connected to the server and may login, until then, the textfields are inaccessible. You can log in and register using the same textfields. There is no verification process or email link implemented yet, only username and password. No re-entering the password to verify it yet, so be cautious. A proper registration process will be implemented in near future (within next week).
 #
 2. Main Menu
-![loqin screen](https://i.imgur.com/VBk4JZf.png)
+![main menu](https://i.imgur.com/VBk4JZf.png)
 Temporarily only buttons.
 - "Add Map" allows you to register a new map by its name to the database
 - "Profile" shows you currently kind of irrelevant data about your profile
@@ -39,8 +39,20 @@ Temporarily only buttons.
 - "Map View" projects the graphic of any map with all registered nodes to it, allowing you to see where quality spots on that map are
 - "Quit" closes the program, this also logs you out as of now
 - "Help" brings you to this exact webpage (chances are, this is how you got here)
-
-
+#
+3. Add Map
+![register map](https://i.imgur.com/4POK4MR.png)
+As simple as it gets. Enter the mapname to enable node registration to it, if it doesnt already exist on the database. Beginner-Maps are excluded, due to lack of demand and Crater Maps are excluded, due to volatility. Changes to this and new maps will be considered at any time. Demand usually results in change.
+#
+4. Profile
+![profile screen](https://i.imgur.com/FcJxA1v.png)
+It is pretty useless at the moment and more of a placeholder.
+#
+5. Add Node
+![add node](https://i.imgur.com/meboNEt.png)
+#
+6. Map Viewer
+![mapp viewer](https://i.imgur.com/BdIXZ0z.jpg)
 # Quality in Last Oasis
 
 I couldn't have made it better myself, so I prefer to redirect you to this online document: https://docs.google.com/document/d/1rM6Gt2k3zWGwzAbSeO1cdze2qWqe12p3dUpUdDz97z4/edit#
