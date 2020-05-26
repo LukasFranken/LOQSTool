@@ -7,8 +7,8 @@ Content:
 2. How to use the tool
 3. Quality in Last Oasis
 4. Q&A
-5. Changelog
-6. Contact
+5. Contact
+6. Changelog
 
 # Installation
 
@@ -56,3 +56,15 @@ A: The most requested solution would be a private realm. With this feature, all 
 # Contact
 
 Email: m16a1@live.de
+
+# Changelog
+v0.0.2:
+- nodes are being counted and the count is shown next to the respective resources' filterlabel
+- fixed a bug that caused checkboxes to work in reverse (checking them would hide nodes on map and unchecking would show them)
+- verifications added, you may now verify each node's existance to filter out incorrect node submissions
+- verifications are now being displayed in each nodes' information
+- slightly increased performance
+#
+v0.0.1:
+- initial commit, super basic functionality
+#
