@@ -24,6 +24,8 @@ If you encounter any issues during the process, feel free to contact me with an 
 
 # How to use the tool
 
+- guide coming soon
+
 # Quality in Last Oasis
 
 I couldn't have made it better myself, so I prefer to redirect you to this online document: https://docs.google.com/document/d/1rM6Gt2k3zWGwzAbSeO1cdze2qWqe12p3dUpUdDz97z4/edit#
@@ -36,13 +38,13 @@ Q: Isn't your program considered cheating?
 
 A: No, unless you consider sharing Excel-Tables with your friends cheating aswell. LOQSTool's functionality is technically merely a more optimized shared spreadsheet.
 #
-Q: Is this software free?
+Q: Is this software for free?
 
-A: Primarily and at the moment yes, but not all future features will be. Since my tool heavily depends on cloud based traffic, which I pay out of my own pocket at the moment, I will have to implement a way to compensate for the costs, sooner or later. I consider leaving this tool entirely for free for common use and put some small pricetags on special features, like individual contracts with big clans. However, this is merely a fun project to me so I have no interest of making profit. I consider myself a non-profit-organization.
+A: It will always be, to a certain extend. Since my tool heavily depends on cloud based traffic, which I pay out of my own pocket at the moment, I will have to implement a way to compensate for the costs, sooner or later. I consider leaving this tool entirely for free for common use and put some small pricetags on special features, like individual contracts with big clans. However, this is merely a fun project to me so I have no interest of making profit. I consider myself a non-profit-organization.
 #
 Q: I really don't want to pay for this, do I have to eventually, in oder to use the software to its fullest extend?
 
-A: This software lives off of YOUR contribution. My goal is to implement a way to reward data contributions to the global network with free access to all of the softwares features. In other words: You keep submitting your found quality nodes and contributing to the ecosystem of the tool and I will try to keep it as free as possible for you. More info on that in the future.
+A: This software lives off of YOUR contribution. My goal is to implement a way to reward data contributions to the global network with free access to all of the softwares features. In other words: You keep contributing to the ecosystem of the tool and I will reward you for that by granting you access to my tool's features. More info on that in near future.
 #
 Q: Why doesn't the tool read out the resource data from the game automatically?
 
@@ -50,7 +52,7 @@ A: To ensure your safety, I do not implement any functionality, that interacts w
 #
 Q: We are a clan, how exactly can we profit from contacting you directly?
 
-A: The most requested solution would be a private realm. With this feature, all your clanmember's data submissions will only be visible to other clanmembers, while all of you have access to read out the data from the global network. This allows for more "insider information" when it comes to your specific clan map. Random players may still submit resource nodes from "your map" to the global network. If you have a request on your own, may it be a clan-wide checklist or whatever, then please feel free to contact me, so we can make an arrangement.
+A: The most requested solution would be a private realm. With this feature, all your clanmember's data submissions will only be visible to other clanmembers, while all of you have access to read out the data from both, the clan AND global network. You may also submit selected nodes to the global network, if desired. This allows for more "insider information control" on your clan controlled maps. Random players, however, may still submit resource nodes from "your map" to the global network. If you have a request on your own, may it be a clan-wide checklist or whatever, then please feel free to contact me, so we can make an arrangement.
 #
 
 # Contact
