@@ -60,13 +60,18 @@ A: The most requested solution would be a private realm. With this feature, all 
 Email: m16a1@live.de
 
 # Changelog
-v0.0.2:
+v0.0.3 (26.05.2020):
+- input textfields are now being properly restricted to the set of characters that should be used
+- unsupported resourcetypes (added later in development) are removed from the user interface
+- unified access to supported regions and resourcetypes prevent errors caused by trying to add unsupported data
+#
+v0.0.2 (26.05.2020):
 - nodes are being counted and the count is shown next to the respective resources' filterlabel
 - fixed a bug that caused checkboxes to work in reverse (checking them would hide nodes on map and unchecking would show them)
 - verifications added, you may now verify each node's existance to filter out incorrect node submissions
 - verifications are now being displayed in each nodes' information
 - slightly increased performance
 #
-v0.0.1:
+v0.0.1 (22.05.2020):
 - initial commit, super basic functionality
 #
