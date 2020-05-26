@@ -24,8 +24,21 @@ If you encounter any issues during the process, feel free to contact me with an 
 
 # How to use the tool
 
-- guide coming soon
+Note: The UI is extremely primitive as of right now, but will be redesigned in near future. This is one of my priorities at the moment. The design already exists, but the implementation might take a week or two. Please be tolerant to the current state of the design, at least its functional.
 
+1. Login and Register
+![loqin screen](https://i.imgur.com/zy4ueVD.png)
+Once the text on the top right says "Connected!", you are connected to the server and may login, until then, the textfields are inaccessible. You can log in and register using the same textfields. There is no verification process or email link implemented yet, only username and password. No re-entering the password to verify it yet, so be cautious. A proper registration process will be implemented in near future (within next week).
+#
+2. Main Menu
+![loqin screen](https://i.imgur.com/VBk4JZf.png)
+Temporarily only buttons.
+- "Add Map" allows you to register a new map by its name to the database
+- "Profile" shows you currently kind of irrelevant data about your profile
+- "Add Node" will let you input data that is nessecary to register unregistered quality resource spots
+- "Map View" projects the graphic of any map with all registered nodes to it, allowing you to see where quality spots on that map are
+- "Quit" closes the program, this also logs you out as of now
+- "Help" brings you to this exact webpage (chances are, this is how you got here)
 # Quality in Last Oasis
 
 I couldn't have made it better myself, so I prefer to redirect you to this online document: https://docs.google.com/document/d/1rM6Gt2k3zWGwzAbSeO1cdze2qWqe12p3dUpUdDz97z4/edit#
