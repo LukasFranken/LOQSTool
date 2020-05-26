@@ -39,6 +39,8 @@ Temporarily only buttons.
 - "Map View" projects the graphic of any map with all registered nodes to it, allowing you to see where quality spots on that map are
 - "Quit" closes the program, this also logs you out as of now
 - "Help" brings you to this exact webpage (chances are, this is how you got here)
+
+
 # Quality in Last Oasis
 
 I couldn't have made it better myself, so I prefer to redirect you to this online document: https://docs.google.com/document/d/1rM6Gt2k3zWGwzAbSeO1cdze2qWqe12p3dUpUdDz97z4/edit#
@@ -66,6 +68,16 @@ A: To ensure your safety, I do not implement any functionality, that interacts w
 Q: We are a clan, how exactly can we profit from contacting you directly?
 
 A: The most requested solution would be a private realm. With this feature, all your clanmember's data submissions will only be visible to other clanmembers, while all of you have access to read out the data from both, the clan AND global network. You may also submit selected nodes to the global network, if desired. This allows for more "insider information control" on your clan controlled maps. Random players, however, may still submit resource nodes from "your map" to the global network. If you have a request on your own, may it be a clan-wide checklist or whatever, then please feel free to contact me, so we can make an arrangement.
+#
+Q: What are major future goals of this application?
+
+A:
+- Making this software a web-application (in addition to the java version) for easier access across different devices (and java-haters)
+- Implementing a realm functionality, like a privaterealm that allows access to private maps and nodes, stored locally on your PC
+- A proper monetization and reward system that ideally doesn't impair the usability and experience of this tool, while also covering for its cost
+- Being greenlighted by the devs to allow my tool to collect resource data automatically, either through image recognition or an API
+
+(There are many more goals, however, I consider these the top milestones)
 #
 
 # Contact
