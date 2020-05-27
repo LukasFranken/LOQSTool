@@ -50,6 +50,17 @@ It is pretty useless at the moment and more of a placeholder.
 #
 5. Add Node
 ![add node](https://i.imgur.com/meboNEt.png)
+- Map Input - Type in the name of the map you are trying to add a data node to. If it doesnt show up in the "Suggested"-section, it might just not be registered yet, in which case you will have to add it first in the "Add Map"-menu. The suggested-section is not case-sensitive, feel free to use only lower letters.
+
+- Resource type - The name of the resource which you want to add. If it doesn't show up, it has not been implemented yet. Please contact me via my mail (found below in this readme), if you encounter this issue.
+
+- Quality - The maximum quality of the resource node. You can get this information ingame at the top of your screen when you are directly looking at a resource node and an informationwindow pops up. The number shown will be something like "22/43+". Please insert the number after the "/", so in this case "43+" (include the plus symbol, if it exists). For more information on quality, please consider the next chapter "Quality in Last Oasis".
+
+- Position - In Last Oasis, at the top-right of your screen, you can see your current positions' coordinates. There are plenty of numbers, but the one we are interested in, are the "L=x,x,x" - coordinates. The first 2 numbers make up for the X and Y value:
+![position](https://i.imgur.com/5t6WrEg.png)
+So, if your game says you're at (L=1000,-2000,3000), then insert (X=1000 and Y=-2000).
+
+- Please make sure to only submit a node once. Duplicate nodes may result in negative contribution. This has no meaning as of right now, but will eventually turn out to be the currency you may pay with alternatively to actual money.
 #
 6. Map Viewer
 ![mapp viewer](https://i.imgur.com/BdIXZ0z.jpg)
