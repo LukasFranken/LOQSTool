@@ -66,6 +66,10 @@ So, if your game says you're at (L=1000,-2000,3000), then insert (X=1000 and Y=-
 ![map viewer](https://i.imgur.com/BdIXZ0z.jpg)
 - To search for nodes on a specific map, insert its name into the searchbox. Make sure to use the autofill function, whenever possible, to avoid loading errors due to spelling mistakes. The autofill also indicates, wether or not a map has already been registered, since it would only autocomplete the names of registered maps.
 
+- To show resource nodes, check the box with the resource type of your choice and nodes will pop up on screen, if such exist. the number next to the resource type will indicate, how many registered quality-nodes there are on this specific map.
+
+- Click on the nodes to show its information, like position, verification score and maximum quality.
+
 - Confirm Node - Once you have seen and/or harvested a resource node, that was not submitted by you, you may "confirm" this node. as of right now, this functionality only servers the purpose to indicate, how often a node has been verified by others. In future, this will affect your score, which again, will grant you access to features alternatively to money. Your contribution matters.
 # Quality in Last Oasis
 
