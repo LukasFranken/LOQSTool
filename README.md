@@ -63,7 +63,10 @@ So, if your game says you're at (L=1000,-2000,3000), then insert (X=1000 and Y=-
 - Please make sure to only submit a node once. Duplicate nodes may result in negative contribution. This has no meaning as of right now, but will eventually turn out to be the currency you may pay with alternatively to actual money.
 #
 6. Map Viewer
-![mapp viewer](https://i.imgur.com/BdIXZ0z.jpg)
+![map viewer](https://i.imgur.com/BdIXZ0z.jpg)
+- To search for nodes on a specific map, insert its name into the searchbox. Make sure to use the autofill function, whenever possible, to avoid loading errors due to spelling mistakes. The autofill also indicates, wether or not a map has already been registered, since it would only autocomplete the names of registered maps.
+
+- Confirm Node - Once you have seen and/or harvested a resource node, that was not submitted by you, you may "confirm" this node. as of right now, this functionality only servers the purpose to indicate, how often a node has been verified by others. In future, this will affect your score, which again, will grant you access to features alternatively to money. Your contribution matters.
 # Quality in Last Oasis
 
 I couldn't have made it better myself, so I prefer to redirect you to this online document: https://docs.google.com/document/d/1rM6Gt2k3zWGwzAbSeO1cdze2qWqe12p3dUpUdDz97z4/edit#
