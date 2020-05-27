@@ -42,7 +42,7 @@ Temporarily only buttons.
 #
 3. Add Map
 ![register map](https://i.imgur.com/4POK4MR.png)
-As simple as it gets. Enter the mapname to enable node registration to it, if it doesnt already exist on the database. Beginner-Maps are excluded, due to lack of demand and Crater Maps are excluded, due to volatility. Changes to this and new maps will be considered at any time. Demand usually results in change.
+As simple as it gets. Enter the mapname and layout-type to enable node registration to it, if it doesn't already exist on the database. Beginner-Maps are excluded, due to lack of demand and Crater Maps are excluded, due to volatility. Changes to this and new maps will be considered at any time. Demand usually results in change.
 #
 4. Profile
 ![profile screen](https://i.imgur.com/FcJxA1v.png)
