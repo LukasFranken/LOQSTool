@@ -28,7 +28,7 @@ Note: The UI is extremely primitive as of right now, but will be redesigned in n
 
 1. Login and Register
 ![loqin screen](https://i.imgur.com/zy4ueVD.png)
-Once the text on the top right says "Connected!", you are connected to the server and may login, until then, the textfields are inaccessible. You can log in and register using the same textfields. There is no verification process or email link implemented yet, only username and password. No re-entering the password to verify it yet, so be cautious. A proper registration process will be implemented in near future (within next week).
+Once the text on the top right says "Connected!", you are connected to the server and may login. Until then, the textfields are inaccessible. You can log in and register using the same textfields. There is no verification process or email link implemented yet, only username and password. No re-entering the password to verify it yet, so be cautious. A proper registration process will be implemented in near future (within next week).
 #
 2. Main Menu
 ![main menu](https://i.imgur.com/VBk4JZf.png)
