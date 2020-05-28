@@ -24,7 +24,7 @@ If you encounter any issues during the process, feel free to contact me with an 
 
 # How to use the tool
 
-Note: The UI is extremely primitive as of right now, but will be redesigned in near future. This is one of my priorities at the moment. The design already exists, but the implementation might take a week or two. Please be tolerant to the current state of the design, at least its functional.
+Note: The core functionality revolves around sharing resource nodes, confirming their existance and having a map overview of all shared resource node data.
 
 1. Login and Register
 ![loqin screen](https://i.imgur.com/zy4ueVD.png)
