@@ -30,7 +30,7 @@ Note: The UI is extremely primitive as of right now, but will be redesigned in n
 ![loqin screen](https://i.imgur.com/zy4ueVD.png)
 Once the text on the top right says "Connected!", you are connected to the server and may login. Until then, the textfields are inaccessible. You can log in and register using the same textfields. There is no verification process or email link implemented yet, only username and password. No re-entering the password to verify it yet, so be cautious. A proper registration process will be implemented in near future (within next week).
 #
-2. Main Menu
+2. Main Menu (removed in next patch)
 ![main menu](https://i.imgur.com/VBk4JZf.png)
 Temporarily only buttons.
 - "Add Map" allows you to register a new map by its name to the database
@@ -62,8 +62,8 @@ So, if your game says you're at (L=1000,-2000,3000), then insert (X=1000 and Y=-
 
 - Please make sure to only submit a node once. Duplicate nodes may result in negative contribution. This has no meaning as of right now, but will eventually turn out to be the currency you may pay with alternatively to actual money.
 #
-6. Map Viewer
-![map viewer](https://i.imgur.com/BdIXZ0z.jpg)
+6. Map Viewer (the new main panel in next patch)
+![map viewer](https://i.imgur.com/WlPLvmV.jpg)
 - To search for nodes on a specific map, insert its name into the searchbox. Make sure to use the autofill function, whenever possible, to avoid loading errors due to spelling mistakes. The autofill also indicates, wether or not a map has already been registered, since it would only autocomplete the names of registered maps.
 
 - To show resource nodes, check the box with the resource type of your choice and nodes will pop up on screen, if such exist. the number next to the resource type will indicate, how many registered quality-nodes there are on this specific map.
