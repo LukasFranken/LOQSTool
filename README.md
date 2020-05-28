@@ -28,7 +28,7 @@ Note: The core functionality revolves around sharing resource nodes, confirming 
 
 1. Login and Register
 ![loqin screen](https://i.imgur.com/zy4ueVD.png)
-Once the text on the top right says "Connected!", you are connected to the server and may login. Until then, the textfields are inaccessible. You can log in and register using the same textfields. There is no verification process or email link implemented yet, only username and password. No re-entering the password to verify it yet, so be cautious. A proper registration process will be implemented in near future (within next week).
+Once the text on the top right says "Connected!", you are connected to the server and may login. Until then, the textfields are inaccessible. There is no verification process or email link implemented yet, only username and password.
 #
 2. Main Panel
 ![main menu](https://i.imgur.com/I1Abadk.jpg)
