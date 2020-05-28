@@ -30,23 +30,29 @@ Note: The UI is extremely primitive as of right now, but will be redesigned in n
 ![loqin screen](https://i.imgur.com/zy4ueVD.png)
 Once the text on the top right says "Connected!", you are connected to the server and may login. Until then, the textfields are inaccessible. You can log in and register using the same textfields. There is no verification process or email link implemented yet, only username and password. No re-entering the password to verify it yet, so be cautious. A proper registration process will be implemented in near future (within next week).
 #
-2. Main Menu (removed in next patch)
-![main menu](https://i.imgur.com/VBk4JZf.png)
-Temporarily only buttons.
-- "Add Map" allows you to register a new map by its name to the database
+2. Main Panel
+![main menu](https://i.imgur.com/I1Abadk.jpg)
+- To search for nodes on a specific map, insert its name into the searchbox. Make sure to use the autofill function, whenever possible, to avoid loading errors due to spelling mistakes. The autofill also indicates, wether or not a map has already been registered, since it would only autocomplete the names of registered maps.
+
+- To show resource nodes, check the box with the resource type of your choice and nodes will pop up on screen, if such exist. the number next to the resource type will indicate, how many registered quality-nodes there are on this specific map.
+
+- Click on the nodes to show its information, like position, verification score and maximum quality.
+
+- Confirm Node - Once you have seen and/or harvested a resource node, that was not submitted by you, you may "confirm" this node. as of right now, this functionality only servers the purpose to indicate, how often a node has been verified by others. In future, this will affect your score, which again, will grant you access to features alternatively to money. Your contribution matters.
+
+The Menubuttons (The iconbuttons at the top, right next to the nodeviewer panel):
+- "Settings" is currently unimplemented and serves as a placeholder for future features
 - "Profile" shows you currently kind of irrelevant data about your profile
-- "Add Node" will let you input data that is nessecary to register unregistered quality resource spots
-- "Map View" projects the graphic of any map with all registered nodes to it, allowing you to see where quality spots on that map are
-- "Quit" closes the program, this also logs you out as of now
 - "Help" brings you to this exact webpage (chances are, this is how you got here)
+- "Add Node" will let you input data that is nessecary to register unregistered quality resource spots
+- "Add Map" allows you to register a new map by its name to the database
 #
-3. Add Map
-![register map](https://i.imgur.com/4POK4MR.png)
-As simple as it gets. Enter the mapname and layout-type to enable node registration to it, if it doesn't already exist on the database. Beginner-Maps are excluded, due to lack of demand and Crater Maps are excluded, due to volatility. Changes to this and new maps will be considered at any time. Demand usually results in change.
+3. Settings
+Unimplemented yet.
 #
 4. Profile
 ![profile screen](https://i.imgur.com/FcJxA1v.png)
-It is pretty useless at the moment and more of a placeholder.
+Shows some info. It is pretty useless at the moment and more of a placeholder.
 #
 5. Add Node
 ![add node](https://i.imgur.com/meboNEt.png)
@@ -57,20 +63,16 @@ It is pretty useless at the moment and more of a placeholder.
 - Quality - The maximum quality of the resource node. You can get this information ingame at the top of your screen when you are directly looking at a resource node and an informationwindow pops up. The number shown will be something like "22/43+". Please insert the number after the "/", so in this case "43+" (include the plus symbol, if it exists). For more information on quality, please consider the next chapter "Quality in Last Oasis".
 
 - Position - In Last Oasis, at the top-right of your screen, you can see your current positions' coordinates. There are plenty of numbers, but the one we are interested in, are the "L=x,x,x" - coordinates. The first 2 numbers make up for the X and Y value:
+
 ![position](https://i.imgur.com/5t6WrEg.png)
 So, if your game says you're at (L=1000,-2000,3000), then insert (X=1000 and Y=-2000).
 
 - Please make sure to only submit a node once. Duplicate nodes may result in negative contribution. This has no meaning as of right now, but will eventually turn out to be the currency you may pay with alternatively to actual money.
 #
-6. Map Viewer (the new main panel in next patch)
-![map viewer](https://i.imgur.com/WlPLvmV.jpg)
-- To search for nodes on a specific map, insert its name into the searchbox. Make sure to use the autofill function, whenever possible, to avoid loading errors due to spelling mistakes. The autofill also indicates, wether or not a map has already been registered, since it would only autocomplete the names of registered maps.
+6. Add Map
+![register map](https://i.imgur.com/4POK4MR.png)
+As simple as it gets. Enter the mapname and layout-type to enable node registration to it, if it doesn't already exist on the database. Beginner-Maps are excluded, due to lack of demand and Crater Maps are excluded, due to volatility. Changes to this and new maps will be considered at any time. Demand usually results in change.
 
-- To show resource nodes, check the box with the resource type of your choice and nodes will pop up on screen, if such exist. the number next to the resource type will indicate, how many registered quality-nodes there are on this specific map.
-
-- Click on the nodes to show its information, like position, verification score and maximum quality.
-
-- Confirm Node - Once you have seen and/or harvested a resource node, that was not submitted by you, you may "confirm" this node. as of right now, this functionality only servers the purpose to indicate, how often a node has been verified by others. In future, this will affect your score, which again, will grant you access to features alternatively to money. Your contribution matters.
 # Quality in Last Oasis
 
 I couldn't have made it better myself, so I prefer to redirect you to this online document: https://docs.google.com/document/d/1rM6Gt2k3zWGwzAbSeO1cdze2qWqe12p3dUpUdDz97z4/edit#
@@ -115,6 +117,11 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.0.6 (28.05.2020):
+- ui overhaul (map viewer is now the main panel)
+- fixed map loading not properly if pressed "enter" in map name imput textfield
+- added map add icon
+#
 v0.0.5 (28.05.2020):
 (last update before ui overhaul)
 - redesigned ui in backend to allow stagelayering
