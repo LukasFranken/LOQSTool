@@ -115,6 +115,13 @@ A:
 Email: m16a1@live.de
 
 # Changelog
+v0.0.4 (28.05.2020):
+- 'Help' now redirects to the "how to use"-section of this read-me page
+- better registration (external panel)
+- some ui refactoring
+- menu data layout fix
+- input validation handling
+#
 v0.0.3 (26.05.2020):
 - input textfields are now being properly restricted to the set of characters that should be used
 - unsupported resourcetypes (added later in development) are removed from the user interface
