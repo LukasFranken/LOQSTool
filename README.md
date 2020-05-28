@@ -116,10 +116,12 @@ Email: loqstool@outlook.com
 
 # Changelog
 v0.0.5 (28.05.2020):
+(last update before ui overhaul)
 - redesigned ui in backend to allow stagelayering
 - effect renderer added for e.g. darken ui effects when layered
 - added official email address rather than private one
 - updated main ui (currently map viewer panel) partially to prepare for ui overhaul
+- menuicons and layout created
 #
 v0.0.4 (28.05.2020):
 - 'Help' now redirects to the "how to use"-section of this read-me page
