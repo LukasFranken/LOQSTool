@@ -117,6 +117,9 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.0.7 (29.05.2020):
+- changed "verified" to "confirmed" in node data ui
+- added logging functionality
 v0.0.6 (28.05.2020):
 - ui overhaul (map viewer is now the main panel)
 - fixed map loading not properly if pressed "enter" in map name imput textfield
