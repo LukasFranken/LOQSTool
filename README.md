@@ -117,9 +117,15 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.1.0 (29.05.2020):
+It is about time for the first major versionchange. As of this patch, I will distribute this application among selected testers.
+- added support-email to helpscreen for faster access
+- changed "Suggested:" to "Suggest:"
+#
 v0.0.8 (29.05.2020):
 - title now displays the correct version
 - application now checks up with server for updates on first connection
+#
 v0.0.7 (29.05.2020):
 - changed "verified" to "confirmed" in node data ui
 - added logging functionality
