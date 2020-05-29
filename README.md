@@ -117,6 +117,9 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.0.8 (29.05.2020):
+- title now displays the correct version
+- application now checks up with server for updates on first connection
 v0.0.7 (29.05.2020):
 - changed "verified" to "confirmed" in node data ui
 - added logging functionality
