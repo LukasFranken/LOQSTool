@@ -117,9 +117,9 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
-v0.1.0 (30.05.2020):
+v0.1.1 (30.05.2020):
 - loading screen reload bug fixed for better performance
-- added estimated quantity to node information
+- added estimated quantity to node information (not yet in input, coming next patch)
 #
 v0.1.0 (29.05.2020):
 It is about time for the first major versionchange. As of this patch, I will distribute this application among selected testers.
