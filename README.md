@@ -87,7 +87,7 @@ A: No, unless you consider sharing Excel-Tables with your friends cheating aswel
 #
 Q: Is this software for free?
 
-A: It will always be, to a certain extend. Since my tool heavily depends on cloud based traffic, which I pay out of my own pocket at the moment, I will have to implement a way to compensate for the costs, sooner or later. I consider leaving this tool entirely for free for common use and put some small pricetags on special features, like individual contracts with big clans. However, this is merely a fun project to me so I have no interest of making profit. I consider myself a non-profit-organization.
+A: It will always be, to a certain extend. Since my tool heavily depends on cloud based traffic, which I pay out of my own pocket at the moment, I will have to implement a way to compensate for the costs, sooner or later. I consider leaving this tool entirely for free for common use and put some small pricetags on special features, like individual contracts with big clans. However, this is merely a fun project to me so I have no interest in making profit. I consider myself a non-profit-organization.
 #
 Q: I really don't want to pay for this, do I have to eventually, in oder to use the software to its fullest extend?
 
@@ -117,6 +117,10 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.1.0 (30.05.2020):
+- loading screen reload bug fixed for better performance
+- added estimated quantity to node information
+#
 v0.1.0 (29.05.2020):
 It is about time for the first major versionchange. As of this patch, I will distribute this application among selected testers.
 - added support-email to helpscreen for faster access
