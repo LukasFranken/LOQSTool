@@ -117,6 +117,10 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.1.2 (02.06.2020):
+- restricted input for less chance of wrong data
+- fixed inaccessible data through null values bug
+#
 v0.1.1 (30.05.2020):
 - loading screen reload bug fixed for better performance
 - added estimated quantity to node information (not yet in input, coming next patch)
