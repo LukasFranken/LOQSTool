@@ -105,8 +105,8 @@ Q: What are major future goals of this application?
 
 A:
 - Making this software a web-application (in addition to the java version) for easier access across different devices (and java-haters)
-- Implementing a realm functionality, like a privaterealm that allows access to private maps and nodes, stored locally on your PC
-- A proper monetization and reward system that ideally doesn't impair the usability and experience of this tool, while also covering for its cost
+- Implementing a realm functionality, like a privaterealm that allows access to private maps and nodes, optionally stored locally on your PC
+- A proper monetization and reward system that doesn't impair the usability and experience of this tool, while also covering for its cost
 - Being greenlighted by the devs to allow my tool to collect resource data automatically, either through image recognition or an API
 
 (There are many more goals, however, I consider these the top milestones)
@@ -117,6 +117,12 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.1.3 (03.06.2020):
+- server stuff this patch
+- externalized server from home raspberry pi to amazon EC2 instances for reliable uptime and processing power. my pi now acts as a test server for new software versions.
+- implemented server automigration
+- client connects over domain dns ip-resolve rather than direct ip for better security
+#
 v0.1.2 (02.06.2020):
 - restricted input for less chance of wrong data
 - fixed inaccessible data through null values bug
