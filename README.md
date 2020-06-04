@@ -117,6 +117,12 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.1.4 (04.06.2020):
+- recovered from major data loss
+- fixed bug with autocomplete crash
+- added estimated quantity to resource's data
+- preperation for major update with launcher and auto-updater
+#
 v0.1.3 (03.06.2020):
 - server stuff this patch
 - externalized server from home raspberry pi to amazon EC2 instances for reliable uptime and processing power. my pi now acts as a test server for new software versions.
