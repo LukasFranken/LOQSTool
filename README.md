@@ -117,6 +117,12 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.1.5 (11.06.2020):
+- added development mode to application (technically triggerable, but unusable for external users)
+- loqstool now runs over a launcher, that takes care of updating the tool automatically!
+- fixed a rare config bug
+- several cleanup and performance optimized in client
+#
 v0.1.4 (04.06.2020):
 - recovered from major data loss
 - fixed bug with autocomplete crash
