@@ -117,6 +117,11 @@ A:
 Email: loqstool@outlook.com
 
 # Changelog
+v0.1.6 (13.07.2020):
+- updated UI engine to prepare for incoming nodeadding and zooming functionality
+- improved performance of ui updates
+- refactoring patch
+#
 v0.1.5 (11.06.2020):
 - added development mode to application (technically triggerable, but unusable for external users)
 - loqstool now runs over a launcher, that takes care of updating the tool automatically!
